@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Łukasz Mrozek</Authors>
+    <Company>Łukasz Mrozek</Company>
+    <Description>Web client for Food application</Description>
+    <Copyright>Copyright © Łukasz Mrozek 2019</Copyright>
+    <PackageProjectUrl>https://github.com/morsiu/Food</PackageProjectUrl>
+    <Version>0.0.1-alpha.1</Version>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <NoWarn>NU5105</NoWarn>
+  </PropertyGroup>
+
+</Project>
